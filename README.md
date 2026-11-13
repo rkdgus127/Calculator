@@ -1,6 +1,6 @@
 코드를 작성하다 보면 디버깅 시에 계속 로그가 끊기는 오류가 발생할 수 있습니다.
 
-'''
+'''C++
 int main() {   retrun 0;}
 '''
 
@@ -9,7 +9,7 @@ int main() {   retrun 0;}
 Calculator 속 Collatz는 콜라츠 추측을 이용하여 자신의 컴퓨터 역량을 테스트할 수 있고
 그로 인하여 어떠한 플러그인이나 웹사이트가 자신의 컴퓨터로선 한계점인지 알 수 있습니다.
 
-'''
+'''JAVA
 [COLLATZ] Checked: 100000 | Verified: 100000 | Overflow: 0 | Max Steps: 350
 [COLLATZ] Checked: 300000 | Verified: 100000 | Overflow: 0 | Max Steps: 442
 [COLLATZ] Checked: 400000 | Verified: 100000 | Overflow: 0 | Max Steps: 440
