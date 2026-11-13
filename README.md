@@ -10,6 +10,9 @@ Collatz는 콜라츠 추측(Collatz Conjecture)을 기반으로 컴퓨터의 연
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square)
 ![Algorithm](https://img.shields.io/badge/Algorithm-Collatz-blueviolet?style=flat-square)
 ![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square)
+![Algorithm](https://img.shields.io/badge/Algorithm-Collatz-blueviolet?style=flat-square)
+![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 </p>
 
