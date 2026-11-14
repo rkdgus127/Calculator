@@ -9,13 +9,12 @@ Collatz는 콜라츠 추측(Collatz Conjecture)을 기반으로 컴퓨터의 연
 
 <p align="center">
 
-![C++](https://img.shields.io/badge/C%2B%2B-Version%2020-00599C?style=flat-square)
-![Algorithm](https://img.shields.io/badge/Algorithm-Collatz-blueviolet?style=flat-square)
-![License](https://img.shields.io/badge/License-GPL%203.0-blue.svg)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+[![C++](https://img.shields.io/badge/C%2B%2B-20-00599C.svg?logo=cplusplus)](https://isocpp.org/)
+[![Algorithm](https://img.shields.io/badge/Algorithm-Collatz-blueviolet.svg)](https://en.wikipedia.org/wiki/Collatz_conjecture)
+[![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/rkdgus127/Calculator)
 
 </p>
-
 ---
 
 ## Overview
