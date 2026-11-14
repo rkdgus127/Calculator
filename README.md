@@ -8,10 +8,12 @@ Collatz는 콜라츠 추측(Collatz Conjecture)을 기반으로 컴퓨터의 연
 단순한 수학적 규칙을 대량으로 반복 실행하여 연산량에 따른 처리 성능을 측정하고, 프로그램이 감당할 수 있는 연산 규모를 확인할 수 있습니다.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Algorithm-Collatz-blueviolet?style=flat-square" />
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
+
+![C++](https://img.shields.io/badge/C%2B%2B-Version%2020-00599C?style=flat-square)
+![Algorithm](https://img.shields.io/badge/Algorithm-Collatz-blueviolet?style=flat-square)
+![License](https://img.shields.io/badge/License-GPL%203.0-blue.svg)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+
 </p>
 
 ---
